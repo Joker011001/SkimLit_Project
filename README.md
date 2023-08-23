@@ -1,1 +1,2 @@
 # SkimLit_Project
+## RCT papers are being published at an increasing rate, and those without organized summaries might be challenging to understand, which slows down researchers' access to the literature. To enable researchers to swiftly browse the literature and dig further as necessary, create an NLP model that classifies abstract statements according to the purpose they serve (such as objective, methodology, findings, etc.).
